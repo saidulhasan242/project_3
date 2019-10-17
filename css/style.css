@@ -1,0 +1,106 @@
+body{
+	margin: 0px;
+}
+section{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+header{
+	padding-top: 40px;
+}
+.lo-go{
+	width: 20%;
+	float: left;
+	
+}
+nav{
+	width: 80%;
+	float: right;
+	
+}
+nav ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+    text-transform: uppercase;
+}
+nav ul li a{
+	margin: -2px 5px;
+    padding: 6px 40px;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+	transition-duration: .3s;
+	font-size: 17px;
+}
+nav ul li a:hover{
+	background-color: #dadada;
+	border-radius: 0px 30px 0px 30px;
+}
+.banner{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+.content{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+}
+.catagory1{
+	color: #a2a2a2;
+}
+.con-heading{
+	text-decoration: none;
+	color: #000000;
+}
+.main-con{
+	padding: 0px;
+}
+.comment{
+	padding-top: 30px;
+	color: #a2a2a2;
+	padding-bottom: 100px;
+}
+.blog-1{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.blog-2{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.post1{
+	float: left;
+	width: 45%;
+}
+.post2{
+	float: right;
+	width: 45%;
+}
+.catagory{
+	color: #a2a2a2;
+	padding-top: 25px;
+}
+.p-align{
+	text-align: justify;
+}
+.post3{
+	float: left;
+	width: 45%;
+	margin-top: 60px;
+}
+.post4{
+	float: right;
+	width: 45%;
+	margin-top: 60px;
+}
